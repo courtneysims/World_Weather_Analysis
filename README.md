@@ -14,21 +14,21 @@ The purpose of this project is to retrieve information from websites using the a
 
 The weather data was retrieved from a set of 2,000 randomly generated latitudes and longitudes. The current weather conditions were captured from the Open Weather map (using respective API key) and saved to a dataframe.
 
-!Image [dataframe](https://github.com/courtneysims/World_Weather_Analysis/blob/168899119ad6d5e02ca10bd5832aedef2d7d9ece/Vacation_Search/prefered_city_dataframe.PNG)
+![Image](https://github.com/courtneysims/World_Weather_Analysis/blob/168899119ad6d5e02ca10bd5832aedef2d7d9ece/Vacation_Search/prefered_city_dataframe.PNG)
 
 From these cities' weather conditions, a user can filter the potential destinations based on a preferred temperature range as well as the nearest hotel. The destinations are displayed with a pop-up marker summarizing relevant city information.
 
-Image [vacation map](https://github.com/courtneysims/World_Weather_Analysis/blob/168899119ad6d5e02ca10bd5832aedef2d7d9ece/Vacation_Search/WeatherPy_vacation_map.PNG)
+![Image](https://github.com/courtneysims/World_Weather_Analysis/blob/168899119ad6d5e02ca10bd5832aedef2d7d9ece/Vacation_Search/WeatherPy_vacation_map.PNG)
 
 
 Using Google's directions API and the user's input, a travel map was created to show the route between the four cities chosen by a user. 
 
-image [ travel route](https://github.com/courtneysims/World_Weather_Analysis/blob/168899119ad6d5e02ca10bd5832aedef2d7d9ece/Vacation_Itinerary/WeatherPy_travel_map.PNG)
+![Image](https://github.com/courtneysims/World_Weather_Analysis/blob/168899119ad6d5e02ca10bd5832aedef2d7d9ece/Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
 
 A marker layer map is added to provide additional information to the user describing the name of the city, a nearby hotel, and a quick capture of the current weather conditions at each city. The travel route between the cities can be customized.
 
-Image [travel pop-pop route](https://github.com/courtneysims/World_Weather_Analysis/blob/168899119ad6d5e02ca10bd5832aedef2d7d9ece/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![Image](https://github.com/courtneysims/World_Weather_Analysis/blob/168899119ad6d5e02ca10bd5832aedef2d7d9ece/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 
 
